@@ -15,37 +15,37 @@ To understand and demonstrate subnetting a Class C IP address space and configur
 
 ## 🧪 Lab Tasks and Screenshots
 
-1. [0 My Topology](./images/1.png.png)  
+1. **[0 My Topology](./images/1.png.png)**  
    Visual representation of the full lab setup in Cisco Packet Tracer.
 
 2. **[1 Subnetting Questions](./images/2.png)**  
    Calculation and planning of subnet ranges and IP allocation.
 
-3. **[2 Configure Router R1 with IP address](./images/2-router-r1-config.png)**  
+3. **[2 Configure Router R1 with IP address](./images/3.png)**  
    Configuring IP addresses on Router R1 for each subnet.
 
-4. **[3 Configure Switch S1 with IP address](./images/3-switch-s1-config.png)**  
+4. **[3 Configure Switch S1 with IP address](./images/4.png)**  
    Assigning management IP to Switch S1.
 
-5. **[4 Configure DHCP Pool](./images/4-dhcp-pool-config.png)**  
+5. **[4 Configure DHCP Pool](./images/5.png)**  
    DHCP server configuration to dynamically assign IPs to client devices.
 
-6. **[5 Configure Serial Link on Router 1](./images/5-serial-link-r1.png)**  
+6. **[5 Configure Serial Link on Router 1](./images/6.png)**  
    Configuring the WAN serial interface on Router R1.
 
-7. **[6 Configure Serial Link on Internet Router](./images/6-serial-link-internet-router.png)**  
+7. **[6 Configure Serial Link on Internet Router](./images/7.png)**  
    Connecting R1 to the Internet Router using serial link settings.
 
-8. **[7 Test PC0 for DHCP and Ping](./images/7-pc0-test.png)**  
+8. **[7 Test PC0 for DHCP and Ping](./images/8.png)**  
    Verifying if PC0 received an IP via DHCP and pinging the default gateway.
 
-9. **[8 DNS Traceroute from PC0](./images/8-dns-tracert.png)**  
+9. **[8 DNS Traceroute from PC0](./images/9.png)**  
    Running `tracert` command to resolve and trace the route to DNS.
 
-10. **[9 Test Connection to Web Server](./images/9-web-server-test.png)**  
+10. **[9 Test Connection to Web Server](./images/10.png)**  
    Validating if PC0 can reach an external web server (e.g., `www.linkedin.com`).
 
-11. **[10 Subnetting Task in Detail](./images/10-subnetting-detail.png)**  
+11. **[10 Subnetting Task in Detail](./images/11.png)**  
    Final summary of subnetting strategy, calculations, and assigned IPs.
 
 ---
