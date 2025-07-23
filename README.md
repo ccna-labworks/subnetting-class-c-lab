@@ -15,7 +15,7 @@ To understand and demonstrate subnetting a Class C IP address space and configur
 
 ## 🧪 Lab Tasks and Screenshots
 
-1. **[0 My Topology](./Images/Topology.png)**  
+1. **[0 My Topology](./Images/Topology.png.png)**  
    Visual representation of the full lab setup in Cisco Packet Tracer.
 
 2. **[1 Subnetting Questions](./images/1-subnetting-questions.png)**  
